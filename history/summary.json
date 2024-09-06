@@ -22,17 +22,19 @@
     "url": "https://monals.lol/",
     "icon": "https://icons.duckduckgo.com/ip3/monals.lol.ico",
     "slug": "monals-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 567,
-    "timeWeek": 567,
-    "timeMonth": 567,
-    "timeYear": 567,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
+    "time": 503,
+    "timeDay": 503,
+    "timeWeek": 503,
+    "timeMonth": 503,
+    "timeYear": 503,
+    "dailyMinutesDown": {
+      "2024-09-06": 0
+    }
   }
 ]
