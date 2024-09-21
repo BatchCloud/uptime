@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.app.batchcloud.de.ico",
     "slug": "app-strapi",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 509,
-    "timeDay": 471,
-    "timeWeek": 490,
-    "timeMonth": 509,
-    "timeYear": 509,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 506,
+    "timeDay": 450,
+    "timeWeek": 488,
+    "timeMonth": 506,
+    "timeYear": 506,
     "dailyMinutesDown": {
       "2024-09-18": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 600,
-    "timeDay": 621,
-    "timeWeek": 614,
-    "timeMonth": 600,
-    "timeYear": 600,
+    "time": 593,
+    "timeDay": 462,
+    "timeWeek": 585,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2024-09-18": 20
     }
