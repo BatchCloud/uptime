@@ -1,7 +1,7 @@
 url: https://strapi.app.batchcloud.de/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-15T14:23:05.960Z
+status: up
+code: 200
+responseTime: 686
+lastUpdated: 2025-01-15T14:36:54.551Z
 startTime: 2024-09-06T19:26:44.808Z
 generator: Upptime <https://github.com/upptime/upptime>
